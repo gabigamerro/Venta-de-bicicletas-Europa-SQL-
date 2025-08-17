@@ -20,3 +20,13 @@ Actualmente, la información de ventas se encuentra dispersa y no estructurada e
 El proyecto está destinado a una empresa multinacional dedicada a la fabricación y comercialización de bicicletas y accesorios, con operaciones en diversos países. Su modelo de negocio se basa en la venta directa a consumidores finales y en la distribución a minoristas. La mantiene un catálogo diversificado que abarca desde bicicletas de gama básica hasta modelos premium, así como accesorios especializados.
 
 El acceso a información detallada sobre clientes, productos y transacciones permite a la organización optimizar su inventario, diseñar campañas de marketing segmentadas, mejorar su estrategia de precios y garantizar una logística eficiente.
+
+## Diagrama entidad-relación
+El diagrama relaciona la tabla ventas con la tabla productos y la tabla estados. 
+
+Una venta está asociada a un único producto pero un producto puede estar asociado a múltiples ventas (relación muchos a uno)
+Una venta se realiza en un único estado pero un estado puede estar asociado a múltiples ventas (relación muchos a uno)
+
+<p align="center">
+  <img src="assets/diagrama.png" alt="Diagrama entidad-relación" />
+</p>

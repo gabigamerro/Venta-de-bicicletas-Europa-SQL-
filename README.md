@@ -27,8 +27,7 @@ El diagrama relaciona la tabla ventas con la tabla productos y la tabla estados.
 Una venta está asociada a un único producto pero un producto puede estar asociado a múltiples ventas (relación muchos a uno).
 Una venta se realiza en un único estado pero un estado puede estar asociado a múltiples ventas (relación muchos a uno).
 
-[Ver Diagrama entidad-relación](Diagrama entidad-relación.mwb)
-[Ver Diagrama entidad-relación](Diagrama entidad-relación.mwb)
+[Ver Diagrama entidad-relación](https://github.com/gabigamerro/Venta-de-bicicletas-Europa-SQL-/blob/main/Diagrama%20entidad-relacio%CC%81n.mwb))
 
 <p align="center">
   <img src="assets/diagrama.png" alt="Diagrama entidad-relación" />
